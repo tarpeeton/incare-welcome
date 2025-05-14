@@ -41,7 +41,7 @@ const Banner = () => {
         modules={[Autoplay]}
         slidesPerView={1}
         autoplay={{
-          delay: 3000,
+          delay: 4000,
           disableOnInteraction: false,
         }}
         loop={true}
